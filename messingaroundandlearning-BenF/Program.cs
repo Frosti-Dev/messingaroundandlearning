@@ -131,7 +131,11 @@ namespace messingaroundandlearning_BenF
             }
             */
 
+
+            /*
             //switch statement
+
+            WeaponType weapon = Weapontype.fist
             Console.WriteLine("The current weapon is: " + weapon);
             switch (weapon)
             {
@@ -181,5 +185,29 @@ namespace messingaroundandlearning_BenF
             Console.WriteLine($"The enemy now has {enemyHealth} health.");
         }
 
+
+        */
+            //key info
+            /*
+            ConsoleKeyInfo keyinfo = Console.ReadKey();
+
+            switch (keyinfo.Key)
+            {
+                case ConsoleKey.Spacebar:
+                    Console.WriteLine("Spacebar");
+                    break;
+
+                case ConsoleKey.Enter:
+                    Console.WriteLine("Enter");
+                    break;
+                       
+            }
+            */
+
+
+
+
+
+        }
     }
 }
