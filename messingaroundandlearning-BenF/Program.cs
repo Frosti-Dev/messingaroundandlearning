@@ -204,10 +204,22 @@ namespace messingaroundandlearning_BenF
             }
             */
 
+            //true or false returns
 
+            //static bool IsEven(int numtoCheck)
+            //{
+            //    if (numtoCheck % 2 == 0)
+            //    {
+            //        return true;
+            //    }
+
+            //    return false;
+            //}
 
 
 
         }
+
+
     }
 }
