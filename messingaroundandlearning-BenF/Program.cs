@@ -216,7 +216,53 @@ namespace messingaroundandlearning_BenF
             //    return false;
             //}
 
+            //Arrays
 
+            //static string[] partyNames = { "Alexia", "Scissor", "Phil", "Angel" };
+            //static int[] partyLevels = new int[4];
+
+            //static void LevelUpPartyMember(string memberName)
+            //{
+            //    int indexOfPartyMember = Array.IndexOf(partyNames, memberName);
+            //    //Alexia = 0 in this case -----------------^
+
+            //    partyLevels[indexOfPartyMember] += 1;
+            //}
+
+            //Array.Sort(partyNames);
+
+            //Console.WriteLine(partyNames[0]);
+            //Console.WriteLine(partyNames[1]);
+            //Console.WriteLine(partyNames[2]);
+            //Console.WriteLine(partyNames[3]);
+
+            //partyLevels[0] = 1;
+            //partyLevels[1] = 1;
+            //partyLevels[2] = 1;
+            //partyLevels[3] = 1;
+
+            //LevelUpPartyMember("Alexia");
+            //LevelUpPartyMember("Alexia");
+            //LevelUpPartyMember("Alexia");
+            //LevelUpPartyMember("Alexia");
+            //LevelUpPartyMember("Angel");
+            //LevelUpPartyMember("Scissor");
+
+            //Console.WriteLine(partyLevels[0]);
+            //Console.WriteLine(partyLevels[1]);
+            //Console.WriteLine(partyLevels[2]);
+            //Console.WriteLine(partyLevels[3]);
+
+            ////highest level in party
+            //int maxValue = partyLevels.Max();
+            //int minValue = partyLevels.Min();
+            //int totalValue = partyLevels.Sum();
+            //Console.WriteLine("Highest Level: " + maxValue);
+            //Console.WriteLine("Lowest Level: " + minValue);
+            //Console.WriteLine("Total Level: " + totalValue);
+
+            ////Console.WriteLine(partyNames[0]);
+            //Console.ReadKey();
 
         }
 
