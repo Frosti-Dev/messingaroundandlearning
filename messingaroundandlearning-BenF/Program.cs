@@ -264,6 +264,72 @@ namespace messingaroundandlearning_BenF
             ////Console.WriteLine(partyNames[0]);
             //Console.ReadKey();
 
+            //loops
+
+            //int PlayerHP = 100;
+            //while (PlayerHP > 0)
+            //{
+            //    //will repeat until hp hits 0
+
+            //    PlayerHP -= 20;
+            //    Console.WriteLine("Player Health: " + PlayerHP);
+            //    Console.ReadKey();
+            //    Console.Clear();
+            //}
+
+            //Console.WriteLine("ded");
+
+            //int amountofloops = 0;
+            //while (true)
+            //{
+            //    Console.WriteLine(amountofloops);
+            //    amountofloops++;
+
+            //    Console.ReadKey(true);
+            //}
+
+            //int PlayerHP = 100;
+
+            //ConsoleKeyInfo lastSelection = new ConsoleKeyInfo();
+            //while (PlayerHP > 0)
+            //{
+            //    //will repeat until hp hits 0
+
+            //    Console.WriteLine("Player Health: " + PlayerHP);
+            //    lastSelection = Console.ReadKey(true);
+
+
+            //    if (lastSelection.Key == ConsoleKey.X)
+            //    {
+            //        break;
+            //    }
+
+            //    PlayerHP -= 10;
+            //}
+
+            ////random number
+            //Random random = new Random();
+
+
+            //while (true) 
+            //{
+            //    //int randomNumber = random.Next(-100, 100);
+            //    //Console.WriteLine(randomNumber);
+
+            //    string MyUserInput = Console.ReadLine();
+
+            //    Console.WriteLine($"Your input was: {MyUserInput}");
+
+            //    int ValueasInt = int.Parse(MyUserInput);
+
+            //    Console.WriteLine(ValueasInt);
+
+            //    //Console.ReadKey();
+            //    Console.ReadKey(true); //will not show keys pressed
+            //}
+
+            //Console.WriteLine("We are out of the loop");
+
         }
 
 
