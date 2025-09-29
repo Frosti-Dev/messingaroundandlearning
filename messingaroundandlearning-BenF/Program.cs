@@ -330,8 +330,68 @@ namespace messingaroundandlearning_BenF
 
             //Console.WriteLine("We are out of the loop");
 
+
+            //value types + reference types
+
+            //value types; points to data directly. Only copies the value.
+
+            //int a = 5;
+
+            ////int b = a;
+            //ref int b = ref a;
+
+
+            //b = 10;
+
+            //Console.WriteLine(a);
+
+            int health = 80;
+            int level = 5;
+
+            //    IncreaseNumber(ref level);
+
+            //    Console.WriteLine(level);
+
+            //}
+
+            //static int IncreaseNumber(int numToIncrease)
+            //{
+            //    return numToIncrease += 1;
+            //}
+
+            //string[] someNames = { "Peter", "Alfred", "Jeremy" };
+
+            //string[] anotherArray = someNames;
+
+            //anotherArray[0] = "Britney Spears";
+
+            //Console.WriteLine(someNames[0]);
+
+
+            //addTwoNumbers(health, level);
+
+            //    string[] players = { "Destroyer348654", "SamIAm", "TortoisGuy" };
+
+            //    ChangeUsername(players, 0, "NewUsername");
+
+            //}
+
+            //static void ChangeUsername(string[] playersInLobby, int index, string newname)
+            //{
+            //    playersInLobby[index] = newname;
+            //}
+
+
+
+            //static int addTwoNumbers(int a, int b)
+            //{
+            //    a = 10; //a does not know about health
+
+            //    return a + b;
+            //}
+
+
+
         }
-
-
     }
 }
