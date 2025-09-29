@@ -266,6 +266,8 @@ namespace messingaroundandlearning_BenF
 
             //loops
 
+            //while loops
+
             //int PlayerHP = 100;
             //while (PlayerHP > 0)
             //{
@@ -307,6 +309,16 @@ namespace messingaroundandlearning_BenF
             //    PlayerHP -= 10;
             //}
 
+            //for loops
+
+            //string[] studentNames = { "Chris", "Aiden", "Charlie", "Georgia", "Micah" };
+
+            //for (int i = 0; i < studentNames.Length; i++)
+            //{
+            //    Console.WriteLine(studentNames[i] + " " + i);
+            //    Console.ReadKey(true);
+            //}
+
             ////random number
             //Random random = new Random();
 
@@ -330,6 +342,7 @@ namespace messingaroundandlearning_BenF
 
             //Console.WriteLine("We are out of the loop");
 
+<<<<<<< HEAD
 
             //value types + reference types
 
@@ -345,8 +358,8 @@ namespace messingaroundandlearning_BenF
 
             //Console.WriteLine(a);
 
-            int health = 80;
-            int level = 5;
+            //int health = 80;
+            //int level = 5;
 
             //    IncreaseNumber(ref level);
 
@@ -390,7 +403,28 @@ namespace messingaroundandlearning_BenF
             //    return a + b;
             //}
 
+         //2 dimentional arrays
 
+            //char[,] xoBoard = {
+            //    { 'X', '0', ' ' }, //row 0
+            //    { ' ', 'X', ' ' }, //row 1
+            //    { ' ', ' ', 'X' } //row 2
+
+            //};
+
+            //Console.WriteLine(xoBoard[0, 1]); //row, column
+
+            //outer loop
+            //for (int i = 0; i < boardColors.GetLength(0); i++)
+            //{
+            //    for(int j = 0; j <boardColors.GetLength(1); j++)
+            //    {
+            //        Console.BackgroundColor = boardColors[i, j];
+            //        Console.Write(" ");
+            //    }
+            //    Console.Write("\n");
+            //}
+            //Console.ReadKey(true)
 
         }
     }

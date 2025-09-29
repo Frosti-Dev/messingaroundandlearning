@@ -6,3 +6,10 @@ C:\Users\w0527459\Documents\messingaroundandlearning-BenF\messingaroundandlearni
 C:\Users\w0527459\Documents\messingaroundandlearning-BenF\messingaroundandlearning-BenF\obj\Debug\messingaroundandlearning-BenF.exe
 C:\Users\w0527459\Documents\messingaroundandlearning-BenF\messingaroundandlearning-BenF\obj\Debug\messingaroundandlearning-BenF.pdb
 C:\Users\w0527459\Documents\messingaroundandlearning-BenF\messingaroundandlearning-BenF\obj\Debug\messingaroundandlearning-BenF.exe.config
+C:\school\programming code\messingaroundandlearning\messingaroundandlearning-BenF\bin\Debug\messingaroundandlearning-BenF.exe.config
+C:\school\programming code\messingaroundandlearning\messingaroundandlearning-BenF\bin\Debug\messingaroundandlearning-BenF.exe
+C:\school\programming code\messingaroundandlearning\messingaroundandlearning-BenF\bin\Debug\messingaroundandlearning-BenF.pdb
+C:\school\programming code\messingaroundandlearning\messingaroundandlearning-BenF\obj\Debug\messingaroundandlearning-BenF.csproj.AssemblyReference.cache
+C:\school\programming code\messingaroundandlearning\messingaroundandlearning-BenF\obj\Debug\messingaroundandlearning-BenF.csproj.CoreCompileInputs.cache
+C:\school\programming code\messingaroundandlearning\messingaroundandlearning-BenF\obj\Debug\messingaroundandlearning-BenF.exe
+C:\school\programming code\messingaroundandlearning\messingaroundandlearning-BenF\obj\Debug\messingaroundandlearning-BenF.pdb
