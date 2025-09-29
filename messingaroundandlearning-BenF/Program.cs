@@ -342,7 +342,7 @@ namespace messingaroundandlearning_BenF
 
             //Console.WriteLine("We are out of the loop");
 
-<<<<<<< HEAD
+
 
             //value types + reference types
 
