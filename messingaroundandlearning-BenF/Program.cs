@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -403,7 +404,7 @@ namespace messingaroundandlearning_BenF
             //    return a + b;
             //}
 
-         //2 dimentional arrays
+            //2 dimentional arrays
 
             //char[,] xoBoard = {
             //    { 'X', '0', ' ' }, //row 0
@@ -425,6 +426,80 @@ namespace messingaroundandlearning_BenF
             //    Console.Write("\n");
             //}
             //Console.ReadKey(true)
+
+
+            //Scope
+            //a region of code where identifiers are accessable
+
+            //ExampleMethod();
+
+            //myInteger does not exist here
+
+            //for(int i = 0; i< 10; i++)
+            //{
+            //    int myIntForLoop = 5;
+
+            //    ExampleMethod();
+            //}
+
+            //}
+
+            //static void ExampleMethod()
+            //{
+            //    int myInteger = 10;
+            //}
+
+            //foreach loop
+            //interate over collection elements
+
+            //int[] GunAmmos = { 6, 25, 30, 1 };
+
+            //foreach(int GunAmmo in GunAmmos)
+            //{
+            //    //GunAmmo is equal to 6 the first interation then will change to 25 etc.
+            //    Console.WriteLine($"Gun Ammo: {GunAmmo}");
+            //}
+
+            ////list -> dynamicallly sizable
+            //List<string> classPeoplez = new List<string>();
+
+            //add, remove, clear, contains
+            //classPeoplez.Add("Simon");
+            //classPeoplez.Add("Charile");
+            //classPeoplez.Add("Ben");
+
+            //classPeoplez.Reverse();
+
+            //classPeoplez.Remove("Simon");
+
+            //Console.WriteLine(classPeoplez.Max<string>());
+
+            //for (int i = 0, i <classPeoplez.Count; i++)
+            //{
+
+            //}
+
+            //foreach(string name in classPeoplez)
+            //{
+            //    Console.WriteLine(name);
+            //}
+
+            //List<string> Inventory = new List<string>();
+
+            //Inventory.Add("Helm");
+            //Inventory.Add("Chest");
+            //Inventory.Add("Leggings");
+            //Inventory.Add("Frosty Boots");
+            //Inventory.Add("Sword");
+
+            //Console.WriteLine("Inventory");
+
+            //foreach (string item in Inventory)
+            //{ 
+            //    Console.WriteLine(item);
+            //}
+
+            //Console.ReadKey();
 
         }
     }
