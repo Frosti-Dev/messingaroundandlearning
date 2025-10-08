@@ -492,6 +492,11 @@ namespace messingaroundandlearning_BenF
             //Inventory.Add("Frosty Boots");
             //Inventory.Add("Sword");
 
+            //Inventory.Remove(3);
+            //Inventory.RemoveAt(3);
+
+            //Inventory.Contains("Sword");
+
             //Console.WriteLine("Inventory");
 
             //foreach (string item in Inventory)
@@ -500,6 +505,8 @@ namespace messingaroundandlearning_BenF
             //}
 
             //Console.ReadKey();
+
+
 
         }
     }
